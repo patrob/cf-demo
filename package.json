@@ -1,0 +1,11 @@
+{
+  "name": "cf-demo",
+  "version": "1.0.0",
+  "description": "Tiny demo target for Claude Factory plugin",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "main": "src/index.js"
+}
